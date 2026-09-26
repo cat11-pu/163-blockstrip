@@ -1,0 +1,4 @@
+{
+  "block_error_code": "E_UNCLOSED_BLOCK",
+  "text": "head/* one */mid/* two\nlines */tail"
+}
